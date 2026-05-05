@@ -20,8 +20,8 @@
 ### 📊 GitHub динамика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LondoGrafSmith&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondoGrafSmith&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="42%" />
+  
+  
 </div>
 
 <br/>
