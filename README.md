@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/LondoGrafSmith"><img src="https://img.shields.io/badge/GitHub-LondoGrafSmith-2F81F7?style=flat-square&logo=github"/></a>
-  <a href="https://t.me/LondoGrafSmith"><img src="https://img.shields.io/badge/Telegram-@LondoGrafSmith-2CA5E0?style=flat-square&logo=telegram"/></a>
+  <a href="https://t.me/grafsmith"><img src="https://img.shields.io/badge/Telegram-@grafsmith-2CA5E0?style=flat-square&logo=telegram"/></a>
   <!-- Добавь другие соцсети при необходимости -->
 </p>
 
